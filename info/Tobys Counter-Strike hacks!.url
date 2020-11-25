@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.tobys.dk/cs/index.php
+[InternetShortcut]
+URL=http://www.tobys.dk/cs?ref=dl
+Modified=508C697735EAC601A2
+HotKey=0
+IDList=
+IconFile=C:\Windows\system32\SHELL32.dll
+IconIndex=43
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
